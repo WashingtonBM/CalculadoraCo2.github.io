@@ -7,13 +7,6 @@ Uma aplicação web simples e funcional para cálculo de emissão de CO₂ com b
 
 ---
 
-## 🚀 Demonstração
-
-file:///C:/Users/Washington/Exemplos%20Fundamentos/calculator-web/index.html
-
-
----
-
 ## 📌 Funcionalidades
 
 - Cálculo de emissão de CO₂ por:
